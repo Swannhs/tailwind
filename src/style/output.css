@@ -519,6 +519,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   left: 0px;
 }
 
+.m-7 {
+  margin: 1.75rem;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -773,6 +777,16 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-gray-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+}
+
+.bg-slate-100 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(241 245 249 / var(--tw-bg-opacity));
+}
+
+.bg-indigo-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(199 210 254 / var(--tw-bg-opacity));
 }
 
 .fill-current {
